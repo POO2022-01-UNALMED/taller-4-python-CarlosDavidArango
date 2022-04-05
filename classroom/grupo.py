@@ -35,4 +35,4 @@ class Grupo:
         cls.grado = nombre
 
     def __str__(self):
-        return "grupo de estudiantes: "+ self._grupo
+        return "Grupo de estudiantes: "+ self._grupo
